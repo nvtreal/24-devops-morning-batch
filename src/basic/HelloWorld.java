@@ -6,5 +6,8 @@ public class HelloWorld {
 		System.out.println("Hello There");
 
 	}
-
+	//demonstrate the pull command
+ public void m1() {
+	 System.out.println("From m1");
+ }
 }
