@@ -7,7 +7,11 @@ public class HelloWorld {
 
 	}
 	//demonstrate the pull command
- public void m1() {
-	 System.out.println("From m1");
- }
+	public void m1() {
+		System.out.println("From m1");
+	}
+	//demo for b1 brand_nhanh 1
+	public void m2(){
+		System.out.println("from m2");
+	}
 }
